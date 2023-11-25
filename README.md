@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moh Azmi Abdussyukur</h1>
 <h3 align="center">I am an informatics engineering student at Pelita Bangsa University, and I am still learning about the IT industry</h3>
-<h1 align="center">Hi 👋, I'm Moh Azmi Abdussyukur</h1>
-<h3 align="center">I am an informatics engineering student at Pelita Bangsa University, and I am still learning about the IT industry</h3>
 <img align="right" alt="Coding" widht="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohazmii04&label=Profile%20views&color=0e75b6&style=flat" alt="mohazmii04" /> </p>
