@@ -2,7 +2,7 @@
 <h3 align="center">I am an informatics engineering student at Pelita Bangsa University, and I am still learning about the IT industry</h3>
 <img align="right" alt="Coding" widht="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohazmii04&label=Profile%20views&color=0e75b6&style=flat" alt="mohazmii04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohAzmii04&label=Profile%20views&color=0e75b6&style=flat" alt="MohAzmii04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zmiiaby_" target="blank"><img src="https://img.shields.io/twitter/follow/zmiiaby_?logo=twitter&style=for-the-badge" alt="zmiiaby_" /></a> </p>
 
